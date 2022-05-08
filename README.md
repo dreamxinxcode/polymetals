@@ -1,6 +1,6 @@
 # Getting Started
 
-
+Track the latest prices of various precious metals with this Polybar module. 
 
 ## Installation
 
